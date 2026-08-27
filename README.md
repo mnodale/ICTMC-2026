@@ -1,11 +1,14 @@
-# ICTMC-2026
-Abstract &amp; poster for ICTMC 2026
+# ICTMC 2026
+
+Abstract and poster for ICTMC 2026.
 
 This project contains:
 
-abstract for ICTMC 2026
-poster for ICTMC 2026
+* Abstract submission for ICTMC 2026
+* Poster for ICTMC 2026
 
-No cycling in Birmingham
+**No cycling in Birmingham.**
 
-Marianna Nodale, August 2026
+Marianna Nodale
+August 2026
+
