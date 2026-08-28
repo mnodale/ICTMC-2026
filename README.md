@@ -9,7 +9,7 @@ This project contains:
 
 **No cycling in Birmingham.**
 
-Get in touch for collaboration:
+Get in touch for further development & collaboration:
 
 mn348@medschl.cam.ac.uk
 
